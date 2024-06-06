@@ -1,0 +1,38 @@
+.card__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 340px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.card__id {
+
+}
+.card__image-container {
+
+}
+.card__image {
+    width: 100px;
+    height: 100px;
+}
+.card__title {
+
+}
+.card__description {
+
+}
+.card__date {
+    margin-bottom: 10px;
+}
+.like {
+    margin-right: 10px;
+    cursor: pointer;
+}
+.down-row {
+    display: flex;
+}
+.bookmark {
+    width: 30px;
+    cursor: pointer;
+}

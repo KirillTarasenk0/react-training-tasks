@@ -1,0 +1,10 @@
+.success__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.success__items-container {
+    padding: 20px;
+    border: 1px solid gray;
+}

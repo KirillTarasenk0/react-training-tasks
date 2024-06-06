@@ -1,0 +1,15 @@
+.post__card-container {
+    background-color: gray;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.post__card-date {
+    color: #2a2929;
+    opacity: 0.8;
+}
+.post__image {
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,14 @@
+.signin__button-container {
+
+}
+.signin__button {
+    padding: 10px 120px 10px 120px;
+    background-color: blue;
+    border: none;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+.signin__button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}

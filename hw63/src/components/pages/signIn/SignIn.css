@@ -1,0 +1,30 @@
+.signin__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.signin__items-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+}
+.signin__items-container {
+    padding: 20px;
+}
+.signin__password-link {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 35px;
+    text-decoration: none;
+    color: blue;
+}
+.signin__account-link {
+    display: block;
+    margin-top: 5px;
+    text-decoration: none;
+}
+.signin__account-link span {
+    color: blue;
+}

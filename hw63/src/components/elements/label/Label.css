@@ -1,0 +1,8 @@
+.label__container {
+    padding-right: 40vw;
+}
+.label {
+    opacity: 0.8;
+    font-weight: 700;
+    font-size: 45px;
+}
